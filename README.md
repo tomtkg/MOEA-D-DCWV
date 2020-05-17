@@ -2,7 +2,7 @@
 MOEA/D with Distribution Control of Weight Vector Set
 
 ## Sample image of weight vector set
-|![image](image/M2_1.svg)Two-objective problems, parameter p=1/4|![image](image/M2_2.svg)Two-objective parameter p=2/4|![image](image/M2_3.svg)Two-objective parameter p=3/4
+|![image](image/M2_1.svg)Two-objective problems, parameter p=1/4|![image](image/M2_2.svg)Two-objective problems, parameter p=2/4|![image](image/M2_3.svg)Two-objective  problems, parameter p=3/4
 |:-:|:-:|:-:|
 |![image](image/M3_1.svg)Three-objective problems, parameter p=1/6|![image](image/M3_2.svg)Three-objective problems, parameter p=2/6|![image](image/M3_3.svg)Three-objective problems, parameter p=3/6|
 
