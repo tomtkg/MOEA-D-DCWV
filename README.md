@@ -1,5 +1,5 @@
 # MOEA-D-DCWVS
-Multiobjective evolutionary algorithm based on decomposition with Distribution Control of Weight Vector Set
+MOEA/D with Distribution Control of Weight Vector Set
 
 ## Sample image of weight vector set
 |![image](image/M2_1.svg)Two-objective problems, parameter p=1/4|![image](image/M2_2.svg)Two-objective parameter p=2/4|![image](image/M2_3.svg)Two-objective parameter p=3/4
