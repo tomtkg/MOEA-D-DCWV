@@ -1,6 +1,6 @@
 classdef MOEADDCWV < ALGORITHM
 % <multi/many> <real/binary/permutation>
-% MOEAD with distribution control of weight vector set
+% MOEA/D with distribution control of weight vector set
 % p --- -1 --- The intermediate objective value
 
 %------------------------------- Reference --------------------------------
@@ -8,7 +8,7 @@ classdef MOEADDCWV < ALGORITHM
 % vector set for multi-objective evolutionary algorithms, Proceedings of 
 % the Bio-inspired Information and Communication Technologies, Lecture 
 % Notes of the Institute for Computer Sciences, Social Informatics and 
-% Telecommunications Engineering, 2019: 70–80.
+% Telecommunications Engineering, 2019, 70–80.
 %------------------------------- Copyright --------------------------------
 % Copyright (c) 2021 BIMK Group. You are free to use the PlatEMO for
 % research purposes. All publications which use this platform or any code

@@ -1,4 +1,4 @@
-function W = updateWeight(Objs,W)
+function W = updateWeight(objs,W)
 % Update the weight vectors
 
 %------------------------------- Copyright --------------------------------
@@ -13,10 +13,10 @@ function W = updateWeight(Objs,W)
 % This function is written by Tomoaki Takagi
 
     % Calculate the intermediate objective value p
-    M = size(Objs,2);
-    Objs = normalize(Objs,'range');
-    normP   = sqrt(sum(Objs.^2,2));
-    CosineP = sum(Objs./M,2).*sqrt(M)./normP;
+    M = size(objs,2);
+    objs = normalize(objs,'range');
+    normP   = sqrt(sum(objs.^2,2));
+    CosineP = sum(objs./M,2).*sqrt(M)./normP;
     [~,I]   = min(normP.*sqrt(1-CosineP.^2));
     p       = normP(I)*CosineP(I) / sqrt(M);
     % Distribution control of weight vector set
