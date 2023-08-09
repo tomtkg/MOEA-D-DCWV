@@ -14,7 +14,7 @@
 |Three-objective problems,<br>parameter p=1/6|Three-objective problems,<br>parameter p=2/6|Three-objective  problems,<br>parameter p=3/6|
 
 ## How to use
-This algorithm works with the [PlatEMO](https://github.com/BIMK/PlatEMO/). And the algorithm is implemented in the PlatEMO.  
+This algorithm works with the [PlatEMO](https://github.com/BIMK/PlatEMO). And the algorithm is implemented in the PlatEMO.  
 It is located at ["PlatEMO/Algorithms/Multi-objective optimization/MOEA-D-DCWV"](https://github.com/BIMK/PlatEMO/tree/master/PlatEMO/Algorithms/Multi-objective%20optimization/MOEA-D-DCWV).
 
 ## Reference
